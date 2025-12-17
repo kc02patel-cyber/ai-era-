@@ -1,0 +1,97 @@
+Skill_Category,Sector,Years_to_50_Percent_Obsolescence,AI_Adoption_Rate,Skill_Depreciation_Rate,Reskilling_Time_Months,Year,Region,Skill_Name
+Technical,Software Engineering,2.3,78.5,0.42,18,2024,North America,Legacy Backend Development
+Technical,Software Engineering,1.8,85.2,0.51,14,2024,Europe,Manual Code Documentation
+Technical,Software Engineering,3.1,72.4,0.35,22,2023,Asia,Traditional QA Testing
+Technical,Data Science,2.7,81.3,0.38,20,2024,North America,Manual Data Cleaning
+Technical,Data Science,1.5,88.7,0.58,12,2024,Europe,Statistical Programming (R)
+Technical,Data Science,3.4,68.9,0.32,24,2023,Asia,Exploratory Data Analysis
+Creative,Graphic Design,4.2,65.4,0.28,16,2024,North America,Traditional Layout Design
+Creative,Graphic Design,3.8,71.2,0.31,14,2023,Europe,Manual Image Editing
+Creative,Marketing,2.9,76.8,0.36,18,2024,North America,Copywriting (Standard)
+Creative,Marketing,2.1,82.5,0.44,15,2024,Europe,Social Media Content Creation
+Creative,Advertising,3.5,69.7,0.30,20,2023,Asia,Campaign Concept Development
+Analytical,Finance,4.8,58.3,0.24,28,2023,North America,Financial Modeling
+Analytical,Finance,3.9,64.1,0.29,24,2024,Europe,Risk Assessment
+Analytical,Consulting,3.2,73.6,0.34,22,2024,North America,Market Analysis
+Analytical,Business Intelligence,2.4,79.4,0.40,16,2024,Europe,SQL Query Writing
+Analytical,Consulting,4.1,61.8,0.27,26,2023,Asia,Strategy Development
+Administrative,Human Resources,5.3,52.7,0.21,20,2023,North America,Recruitment Screening
+Administrative,Human Resources,4.6,57.9,0.25,18,2024,Europe,Interview Scheduling
+Administrative,Operations,3.7,67.3,0.30,16,2024,North America,Process Documentation
+Administrative,Customer Service,2.8,75.1,0.37,12,2024,Europe,Email Response Management
+Administrative,Legal,6.2,48.5,0.18,32,2023,North America,Contract Review (Standard)
+Technical,Cybersecurity,7.8,45.2,0.14,36,2023,North America,Threat Analysis
+Technical,Cloud Engineering,3.6,70.8,0.31,24,2024,North America,Infrastructure Management
+Technical,DevOps,2.9,77.2,0.36,20,2024,Europe,CI/CD Pipeline Setup
+Technical,Web Development,1.9,84.6,0.49,14,2024,Asia,Frontend Development (React)
+Technical,Mobile Development,2.6,79.8,0.39,18,2024,North America,Native App Development
+Creative,Content Writing,2.2,81.9,0.43,10,2024,North America,Blog Post Writing
+Creative,Video Production,4.5,63.4,0.26,22,2023,Europe,Video Editing (Basic)
+Creative,UX Design,3.8,68.7,0.30,20,2024,North America,Wireframing
+Creative,UI Design,3.3,72.5,0.33,18,2024,Europe,Interface Design
+Creative,Photography,5.7,54.3,0.20,16,2023,Asia,Photo Retouching
+Analytical,Data Analysis,2.5,80.2,0.41,16,2024,North America,Excel Data Analysis
+Analytical,Business Analysis,3.4,71.6,0.32,22,2024,Europe,Requirements Gathering
+Analytical,Research,4.7,60.5,0.25,28,2023,North America,Literature Review
+Analytical,Economics,5.1,56.8,0.22,30,2023,Europe,Econometric Modeling
+Analytical,Statistics,3.9,66.4,0.29,24,2024,Asia,Statistical Testing
+Administrative,Project Management,4.3,62.7,0.27,24,2023,North America,Project Planning
+Administrative,Office Administration,3.1,74.3,0.35,14,2024,Europe,Calendar Management
+Administrative,Data Entry,1.6,87.5,0.56,8,2024,Asia,Manual Data Entry
+Administrative,Accounting,5.8,51.9,0.19,28,2023,North America,Bookkeeping
+Administrative,Payroll,4.9,58.6,0.23,20,2023,Europe,Payroll Processing
+Technical,Network Engineering,6.5,47.8,0.17,32,2023,North America,Network Configuration
+Technical,Database Administration,4.2,64.9,0.28,26,2023,Europe,Database Optimization
+Technical,IT Support,3.4,71.8,0.32,18,2024,Asia,Technical Troubleshooting
+Technical,Systems Administration,5.4,55.2,0.21,28,2023,North America,Server Management
+Technical,Software Testing,2.1,83.4,0.45,16,2024,Europe,Manual Testing
+Creative,Animation,4.8,61.7,0.24,26,2023,North America,2D Animation
+Creative,Sound Design,5.2,57.3,0.22,24,2023,Europe,Audio Editing
+Creative,Illustration,4.1,65.8,0.28,20,2024,Asia,Digital Illustration
+Creative,Brand Design,3.7,69.2,0.30,18,2024,North America,Brand Identity Development
+Creative,Typography,4.4,63.1,0.26,16,2023,Europe,Font Selection
+Analytical,Forecasting,3.6,70.4,0.31,22,2024,North America,Sales Forecasting
+Analytical,Operations Research,5.6,54.7,0.20,30,2023,Europe,Optimization Modeling
+Analytical,Quality Assurance,3.8,67.9,0.29,20,2024,Asia,Quality Control
+Analytical,Audit,6.1,49.8,0.18,32,2023,North America,Financial Auditing
+Analytical,Compliance,5.9,51.4,0.19,28,2023,Europe,Regulatory Compliance
+Administrative,Logistics,4.7,60.9,0.25,22,2023,Asia,Supply Chain Coordination
+Administrative,Procurement,4.2,64.3,0.28,20,2024,North America,Vendor Management
+Administrative,Facility Management,5.1,57.6,0.22,24,2023,Europe,Facility Operations
+Administrative,Event Planning,3.9,66.8,0.29,18,2024,North America,Event Coordination
+Administrative,Travel Coordination,3.2,73.1,0.34,14,2024,Europe,Travel Booking
+Technical,Machine Learning,8.2,42.6,0.13,40,2023,North America,Model Development
+Technical,AI Engineering,7.5,46.3,0.15,38,2023,Europe,Neural Network Design
+Technical,Blockchain Development,6.8,49.7,0.16,34,2023,Asia,Smart Contract Development
+Technical,IoT Engineering,5.9,53.4,0.20,30,2023,North America,IoT System Design
+Technical,Embedded Systems,7.1,48.2,0.16,36,2023,Europe,Firmware Development
+Creative,Game Design,4.6,62.5,0.25,24,2023,North America,Game Mechanics Design
+Creative,AR/VR Design,5.3,58.1,0.21,28,2023,Europe,Virtual Environment Design
+Creative,Motion Graphics,3.4,71.9,0.32,18,2024,Asia,Motion Design
+Creative,Publishing,4.9,59.7,0.23,22,2023,North America,Editorial Work
+Creative,Journalism,3.1,74.6,0.35,16,2024,Europe,News Writing
+Analytical,Actuarial Science,8.5,41.2,0.12,42,2023,North America,Risk Modeling
+Analytical,Quantitative Analysis,6.7,50.3,0.17,34,2023,Europe,Quantitative Trading
+Analytical,Credit Analysis,4.4,63.8,0.26,24,2024,Asia,Credit Risk Assessment
+Analytical,Tax Planning,5.7,54.9,0.20,30,2023,North America,Tax Strategy
+Analytical,Investment Analysis,5.2,58.4,0.22,28,2023,Europe,Portfolio Analysis
+Administrative,Benefits Administration,4.8,61.3,0.24,20,2023,North America,Benefits Management
+Administrative,Training Coordination,3.6,70.1,0.31,18,2024,Europe,Training Program Management
+Administrative,Policy Development,5.4,56.7,0.21,26,2023,Asia,Policy Writing
+Administrative,Records Management,2.9,76.4,0.36,14,2024,North America,Document Management
+Administrative,Reception,2.4,80.7,0.40,10,2024,Europe,Front Desk Operations
+Technical,Robotics Engineering,7.9,44.8,0.14,38,2023,North America,Robot Programming
+Technical,Automation Engineering,6.3,51.6,0.18,32,2023,Europe,Process Automation
+Technical,Manufacturing Engineering,5.6,55.8,0.20,28,2023,Asia,Production Planning
+Technical,Quality Engineering,4.7,61.2,0.25,24,2023,North America,Quality Systems
+Technical,Telecommunications,6.9,49.1,0.16,34,2023,Europe,Network Planning
+Creative,Interior Design,5.8,53.9,0.20,26,2023,North America,Space Planning
+Creative,Fashion Design,4.3,64.7,0.27,22,2024,Europe,Fashion Sketching
+Creative,Product Design,4.1,66.2,0.28,20,2024,Asia,Product Prototyping
+Creative,Landscape Architecture,6.4,50.8,0.18,30,2023,North America,Site Planning
+Creative,Exhibition Design,4.9,60.4,0.24,24,2023,Europe,Exhibition Layout
+Analytical,Environmental Analysis,5.3,58.7,0.21,28,2023,Asia,Environmental Impact Assessment
+Analytical,Urban Planning,6.1,52.3,0.19,32,2023,North America,Urban Development Planning
+Analytical,Geospatial Analysis,4.6,62.9,0.25,24,2024,Europe,GIS Mapping
+Analytical,Transportation Planning,5.7,55.4,0.20,28,2023,North America,Traffic Analysis
+Analytical,Energy Analysis,5.1,59.2,0.22,26,2023,Europe,Energy Modeling
